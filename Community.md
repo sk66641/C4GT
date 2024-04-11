@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Sanu Kumar</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/sk66641</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/sanu-kumar-2a9492283/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>RGIPT, Raebareli, Uttar Pradesh</td>
+  </tr>
+</table>
